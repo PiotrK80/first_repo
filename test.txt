@@ -1,2 +1,4 @@
 1. pierwsze zajecia z oprogramowaniem git
 piersza zmiana
+druga zmiana
+
